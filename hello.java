@@ -5,9 +5,5 @@ public class hello
           system.out.println("vs code is great");
           display();
    }
-   public static void display(){
-         system.out.printin("hello hello");
-               system.out.printin("hello world");
-
-   }
-}
+  
+} 

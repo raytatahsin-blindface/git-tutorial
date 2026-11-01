@@ -7,5 +7,7 @@ public class hello
    }
    public static void display(){
          system.out.printin("hello hello");
+               system.out.printin("hello world");
+
    }
 }
